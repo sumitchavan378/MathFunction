@@ -2,5 +2,5 @@
 a=10
 b=10
 
-c=$(($a+$b))
+c=`expr $a + $b`
 echo "Result is $c"
