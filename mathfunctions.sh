@@ -1,5 +1,5 @@
 #/bin/bash
-a=15
+a=45
 b=20
 
 c=`expr $a + $b`
